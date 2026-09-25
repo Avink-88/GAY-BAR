@@ -30,3 +30,4 @@ async def hello(ctx):
 # ⚠️ 請把引號內的文字，替換成您剛剛在網頁上點「重設權杖」複製下來的那串 Token！
 bot.run(os.getenv("DISCORD_TOKEN"))
 
+#111
